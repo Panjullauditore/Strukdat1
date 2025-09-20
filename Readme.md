@@ -274,16 +274,4 @@ gcc -o mstack mstack.c stack.c
 
 ---
 
-## 🎓 **Learning Outcomes**
-
-Setelah mengerjakan tugas ini, mahasiswa diharapkan dapat:
-
-1. ✅ **Memahami konsep ADT Stack** dan implementasinya
-2. ✅ **Mengaplikasikan stack** untuk berbagai problem solving
-3. ✅ **Menganalisis kompleksitas** algoritma berbasis stack
-4. ✅ **Mengimplementasikan** program modular dalam bahasa C
-5. ✅ **Menerapkan** best practices dalam programming
-
----
-
 **⭐ Happy Coding! ⭐**
