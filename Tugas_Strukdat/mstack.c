@@ -20,8 +20,8 @@ int main() {
     /*algoritma*/
     printf("TUGAS STRUKTUR DATA - APLIKASI STACK\n");
     printf("=====================================\n");
-    printf("NIM/Nama : 24060122140146 - Ahmad Fahrezi\n");
-    printf("Tanggal  : 20 September 2025\n\n");
+    printf("Kelompok : \n");
+    printf("Tanggal  : \n\n");
     
     do {
         printf("\n=== MENU TESTING APLIKASI STACK ===\n");
